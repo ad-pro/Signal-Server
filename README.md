@@ -369,7 +369,7 @@ Now you shold be able to play with your own Signal installation.
     #for iOS client you have to convert  whisper.crt in  DER format and install whisper.cer in Signal-iOS
     openssl x509 -in whisper.crt -out whisper.cer -outform DER
 
-Execute this script as explained in the first lines of it. You can find the original version of this script here (Thanks to the author for sharing it):
+Execute this script as explained in the first lines of it. You can find the original version of this script here (Thanks to the author for sharing it): 
 
    https://github.com/janimo/textsecure-docker
 
@@ -492,3 +492,4 @@ License
 Copyright 2013-2016 Open Whisper Systems
 
 Licensed under the AGPLv3: https://www.gnu.org/licenses/agpl-3.0.html
+https://citrusbits.com
